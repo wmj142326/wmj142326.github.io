@@ -115,7 +115,7 @@ Publications
   > <span class="small-text">C Zheng, L Liu, Y Meng, **M Wang**, X Jiang</span><br>
   > <span class="small-text">(EAAI 2024) Engineering Applications of Artificial Intelligence</span>
   > 
-  ><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947527" style="font-size: 13px;"><strong>Integrating Convolutional Guidance and Transformer Fusion with Markov Random Fields Smoothing for Monocular Depth Estimation</strong></a><br>
+  ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Integrating+Convolutional+Guidance+and+Transformer+Fusion+with+Markov+Random+Fields+Smoothing+for+Monocular+Depth+Estimation&btnG=" style="font-size: 13px;"><strong>Integrating Convolutional Guidance and Transformer Fusion with Markov Random Fields Smoothing for Monocular Depth Estimation</strong></a><br>
   > <span class="small-text">Xiaorui, Peng; Meng, Yu; Boqiang, Shi; Chao, Zheng; **Meijun, Wang**</span><br>
   > <span class="small-text">(EAAI 2025) Engineering Applications of Artificial Intelligence</span>
 

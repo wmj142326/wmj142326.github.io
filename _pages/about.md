@@ -86,7 +86,7 @@ Publications
   >       <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian-Centric+3D+Pre-collision+Pose+and+Shape+Estimation+from+Dashcam+Perspective&btnG="><strong>Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective</strong></a><br>
   >       <span class="small-text"><strong class="highlight">MeiJun Wang</strong>, Yu Meng<sup class="star">*</sup>, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao</span><br>
   >       <span class="small-text">(NeurIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems</span><br>
-  >       <a href="https://openreview.net/pdf?id=ldvfaYzG35" class="link">PDF</a>
+  >       <a href="https://openreview.net/pdf?id=ldvfaYzG35" class="link">Paper</a>
   >       <a href="https://github.com/wmj142326/PVCP" class="link">Code1</a>
   >       <a href="https://github.com/wmj142326/SMPL_Tools" class="link">Code2</a>
   >       <a href="https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0" class="link">Video</a>
@@ -99,7 +99,7 @@ Publications
   >       <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG="><strong>Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images</strong></a><br>
   >       <span class="small-text"><strong class="highlight">MeiJun Wang</strong>, Yu Meng<sup class="star">*</sup>, Yan Xu, Quan Li, Bingbing Nie</span><br>
   >       <span class="small-text">(TITS 2024) IEEE Transactions on Intelligent Transportation Systems</span><br>
-  >       <a href="https://ieeexplore.ieee.org/abstract/document/10746249" class="link">PDF</a>
+  >       <a href="https://ieeexplore.ieee.org/abstract/document/10746249" class="link">Paper</a>
   >       <a href="https://github.com/wmj142326/MBPR" class="link">Code</a>
   >     </td>
   >   </tr>
@@ -110,6 +110,7 @@ Publications
   ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=" style="font-size: 13px;"><strong>Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction</strong></a><br>
   > <span class="small-text">C Zheng, L Liu, Y Meng, X Peng, **M Wang**</span><br>
   > <span class="small-text">(TCSVT 2024) IEEE Transactions on Circuits and Systems for Video Technology</span><br>
+  > <a href="https://ieeexplore.ieee.org/abstract/document/10746249" class="link">Paper</a>
   > 
   ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Meijun+Wang+Passable+area+segmentation+for+open-pit+mine+road+from+vehicle+perspective&btnG=" style="font-size: 13px;"><strong>Passable area segmentation for open-pit mine road from vehicle perspective</strong></a><br>
   > <span class="small-text">C Zheng, L Liu, Y Meng, **M Wang**, X Jiang</span><br>

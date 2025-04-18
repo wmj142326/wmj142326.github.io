@@ -110,7 +110,6 @@ Publications
   ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=" style="font-size: 13px;"><strong>Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction</strong></a><br>
   > <span class="small-text">C Zheng, L Liu, Y Meng, X Peng, **M Wang**</span><br>
   > <span class="small-text">(TCSVT 2024) IEEE Transactions on Circuits and Systems for Video Technology</span><br>
-  > <a href="https://ieeexplore.ieee.org/abstract/document/10746249" class="link">Paper</a>
   > 
   ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Meijun+Wang+Passable+area+segmentation+for+open-pit+mine+road+from+vehicle+perspective&btnG=" style="font-size: 13px;"><strong>Passable area segmentation for open-pit mine road from vehicle perspective</strong></a><br>
   > <span class="small-text">C Zheng, L Liu, Y Meng, **M Wang**, X Jiang</span><br>

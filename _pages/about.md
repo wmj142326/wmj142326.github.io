@@ -42,8 +42,8 @@ Work experience
   
 Publications
 ======
-* You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=zh-CN)
-* You can find my projects on [my Github profile](https://github.com/wmj142326)
+* You can find my articles on [[Google Scholar]](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=en-US)
+* You can find my projects on [[Github]](https://github.com/wmj142326)
 * First-Author Publications
   
   > <style>

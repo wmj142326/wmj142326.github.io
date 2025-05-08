@@ -80,7 +80,9 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [From Knowledge Graph Development to Serving Industrial Knowledge Automation: A Review](https://github.com)
+  **Guangxuan Song**, Dongmei Fu, and Dawei Zhang
+  **CCC 2022**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

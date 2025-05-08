@@ -35,7 +35,11 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/NRKG-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'>
+<div>
+<div class="badge">Under Review</div>
+<img src='images/NRKG-500x300.png' alt="sym" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 [Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction](https://arxiv.org/abs/2312.09744)
@@ -79,18 +83,21 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 </div>
 </div>
 
-
+<div class='paper-box'><div class='paper-box-image'>
 - [From Knowledge Graph Development to Serving Industrial Knowledge Automation: A Review](https://ieeexplore.ieee.org/abstract/document/9901564/)
   
   **Guangxuan Song**, Dongmei Fu, and Dawei Zhang
   
   **2022 41st Chinese Control Conference (CCC)**
+</div>
 
+<div class='paper-box'><div class='paper-box-image'>
 - [Cross-category prediction of corrosion inhibitor performance based on molecular graph structures via a three-level message passing neural network model](https://www.sciencedirect.com/science/article/abs/pii/S0010938X22006989)
   
   Jiaxin Dai, Dongmei Fu, **Guangxuan Song**, Lingwei Ma, Xin Guo, Arjan Mol, Ivan Cole, and Dawei Zhang
   
   **Corrosion Science 2023**
+</div>
 
 - [A Named Entity Extraction Method for Commonly Used Steel Knowledge Graph](https://link.springer.com/chapter/10.1007/978-981-16-6320-8_74)
   

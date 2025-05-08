@@ -26,7 +26,7 @@ Thank you for visiting my website! I'm always happy to connect—feel free to re
 
 My research interests lie at the knowledge graphs and large language models, particularly in their application to scientific data analysis in materials science. I also have a growing interest in exploring how these technologies can support medical research.
 
-A guiding principle I live by is: Do good work, and don’t worry too much about the outcome. I believe that focusing on meaningful efforts will naturally lead to meaningful results.
+A guiding principle I live by is: **Do good work, and don’t worry too much about the outcome. (但行好事，莫问前程。)** I believe that focusing on meaningful efforts will naturally lead to meaningful results.
 
 
 <!-- # 🔥 News -->
@@ -38,11 +38,11 @@ A guiding principle I live by is: Do good work, and don’t worry too much about
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction](https://arxiv.org/abs/2312.09744)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Guangxuan Song**, Dongmei Fu, Zhongwei Qiu, Zijiang Yang, Jiaxin Dai, Lingwei Ma, and Dawei Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>

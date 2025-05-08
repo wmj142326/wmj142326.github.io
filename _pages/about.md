@@ -81,7 +81,9 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 
 - [From Knowledge Graph Development to Serving Industrial Knowledge Automation: A Review](https://github.com)
+  
   **Guangxuan Song**, Dongmei Fu, and Dawei Zhang
+  
   **CCC 2022**
 
 # 🎖 Honors and Awards

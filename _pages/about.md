@@ -79,6 +79,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 </div>
 </div>
 
+---
 
 - [From Knowledge Graph Development to Serving Industrial Knowledge Automation: A Review](https://ieeexplore.ieee.org/abstract/document/9901564/)
   
@@ -86,11 +87,15 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
   
   **2022 41st Chinese Control Conference (CCC)**
 
+---
+
 - [Cross-category prediction of corrosion inhibitor performance based on molecular graph structures via a three-level message passing neural network model](https://www.sciencedirect.com/science/article/abs/pii/S0010938X22006989)
   
   Jiaxin Dai, Dongmei Fu, **Guangxuan Song**, Lingwei Ma, Xin Guo, Arjan Mol, Ivan Cole, and Dawei Zhang
   
   **Corrosion Science 2023**
+
+---
 
 - [A Named Entity Extraction Method for Commonly Used Steel Knowledge Graph](https://link.springer.com/chapter/10.1007/978-981-16-6320-8_74)
   

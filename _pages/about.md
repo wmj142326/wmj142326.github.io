@@ -79,13 +79,27 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 </div>
 </div>
 
----
-
 - [From Knowledge Graph Development to Serving Industrial Knowledge Automation: A Review](https://ieeexplore.ieee.org/abstract/document/9901564/)
   
   **Guangxuan Song**, Dongmei Fu, and Dawei Zhang
   
   **2022 41st Chinese Control Conference (CCC)**
+
+---
+
+- Corrosion Resistant Performance Prediction in High-Entropy Alloys: A Framework for Model, Interpretation and Multi-Dimensional Visualization
+  
+  **Guangxuan Song**, Dongmei Fu, Weiwei Chang, Zhongheng Fu, Lingwei Ma, and Dawei Zhang
+  
+  **Corrosion Science (under review)**
+
+---
+
+- Corrosion Resistance Prediction of High-entropy Alloys: Framework and Knowledge Graph-Drive
+  
+  **Guangxuan Song**, Dongmei Fu, Yongjie Lin, Lingwei Ma, and Dawei Zhang
+  
+  **npj Materials Degradation (under review)**
 
 ---
 

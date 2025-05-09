@@ -189,4 +189,4 @@ I am fortunate to collaborate closely with the following research partners:
 
 - Xin Qin. My partner in data-driven research on industrial fault diagnosis and process modeling.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=G9buaHAOshkl4VxMI_Ns2MdKNcMwxY1ZHk2sxPobsJw"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=G9buaHAOshkl4VxMI_Ns2MdKNcMwxY1ZHk2sxPobsJw" style="width: 200px;"></script>

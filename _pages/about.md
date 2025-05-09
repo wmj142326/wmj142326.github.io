@@ -24,7 +24,7 @@ redirect_from:
 
 Thank you for visiting my website! I'm always happy to connect—feel free to reach out.
 
-My research interests lie at the knowledge graphs and large language models, particularly in their application to scientific data analysis in materials science. I also have a growing interest in exploring how these technologies can support medical research.
+My research interests lie at the intersection of knowledge graphs and large language models, particularly in their application to scientific data analysis in materials science. I also have a growing interest in exploring how these technologies can support medical research. I am currently pursuing my Ph.D. under the supervision of Prof. Dongmei Fu and Prof. Dawei Zhang at the University of Science and Technology Beijing (USTB).
 
 A guiding principle I live by is: **Do good work, and don’t worry too much about the outcome. (但行好事，莫问前程。)** I believe that focusing on meaningful efforts will naturally lead to meaningful results.
 

@@ -115,7 +115,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
   
   Hao Meng, Lizhen Shao, Dongmei Fu, **Guangxuan Song**, and Jintao Meng
   
-  **2023 43st Chinese Control Conference (CCC)**
+  **2024 43st Chinese Control Conference (CCC)**
 
 ---
 

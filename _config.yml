@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guangxuan Song"
-description              : "Contact information"
+description              : "he/him, 1997"
 repository               : "sguangxuan/sguangxuan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guangxuan Song"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD candidate, University of Science and Technology Beijing"
-  location         : "Beijing, China"
+  bio              : "PhD student, enrolled in 2026"
+  location         : "USTB, Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6ZeRaEYAAAAJ"

@@ -114,7 +114,8 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 # 💬 Academic Service
 ## Conference Reviewer
 - **NeurIPS**: 2025
-## Conference Reviewer
+
+## Journal Reviewer
 - TCSVT, TITS, EAAI
   
 # 🔗 Links

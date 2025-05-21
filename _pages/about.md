@@ -23,19 +23,18 @@ redirect_from:
 
 
 Welcome to my Homepage! 
-
 My research interests focus on **Human Pose Estimation and Generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. I am currently a Ph.D. student (Class of 2023) at the University of Science and Technology Beijing (USTB), under the supervision of [Professor Yu Meng]([https://faculty.ustb.edu.cn/mengyu/](https://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/543.html)).
-
-Sharing, contributing, open-sourcing, and helping others are some of my greatest joys!  
-Feel free to share your thoughts — you can submit a comment [here 💬](wmj142326@163.com).
-
-
-A guiding principle I live by is: **Do good work, and don’t worry too much about the outcome. (但行好事，莫问前程。)** I believe that focusing on meaningful efforts will naturally lead to meaningful results.
+Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to share your thoughts！
 
 
 <!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 📖 Educations
+- *2023.09 - Now*, Ph.D in University of Science and Technology Beijing.
+- *2020.09 - 2023.06*, M.S. in University of Science and Technology Beijing.
+- *2016.09 - 2020.06*, B.S. in University of Science and Technology Beijing.
 
 # 📝 Publications 
 
@@ -171,10 +170,6 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 - *2024*, **Integrated Algorithms for Intelligent Corrosion Data Processing** V1.0 (材料腐蚀数据智能处理算法集成软件), 2024SR0703369
 - *2024*, **Medical Risk Assessment System Based on KG and LLMs** V1.0 (基于知识图谱和大语言模型的病历风险评估系统), 2024SR0600394
 - *2024*, **Medical Decision Explanation System Based on KG and LLMs** V1.0 (基于知识图谱和大语言模型的医疗决策解释系统), 2024SR0632941
-
-# 📖 Educations
-- *2020.09 - Now*, Ph.D in University of Science and Technology Beijing. 
-- *2016.09 - 2020.06*, B.S. in University of Science and Technology Beijing.
 
 # 💬 Invited Talks
 

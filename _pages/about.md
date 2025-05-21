@@ -39,8 +39,8 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 # 📝 Publications 
 
-* You can find my articles on [[Google Scholar]](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=en-US)
-* You can find my projects on [[Github]](https://github.com/wmj142326)
+* You can find my articles on [[Google Scholar]](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=en-US).
+* You can find my projects on [[Github]](https://github.com/wmj142326).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PVCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,7 +49,7 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 **MeiJun Wang**, Yu Meng*, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao
 
-(*NeurIPS 2024*) [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c428bb07062012236519b589db63f34-Paper-Conference.pdf) · [Code](https://github.com/wmj142326/PVCP) · [Annotation_Tools](https://github.com/wmj142326/SMPL_Tools) · [Video](https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0) · [More](https://neurips.cc/virtual/2024/poster/93814)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+(*NeurIPS 2024*)  [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c428bb07062012236519b589db63f34-Paper-Conference.pdf) · [[Code]](https://github.com/wmj142326/PVCP) · [[Annotation_Tools]](https://github.com/wmj142326/SMPL_Tools) · [[Video]](https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0) · [[More]](https://neurips.cc/virtual/2024/poster/93814)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We constructed a pedestrian pre-collision pose dataset, PVCP, by collecting dashcam videos of pedestrian-vehicle collisions.
 - We propose a two-stage pedestrian pre-collision pose and shape estimation network, PPSENet.
 
@@ -61,11 +61,11 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/MBPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(*TITS 2024*) [Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG=)
+[Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG=)
 
 **MeiJun Wang**, Yu Meng*, Yan Xu, Quan Li, Bingbing Nie
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/10746249) · [Code](https://github.com/wmj142326/MBPR)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+(*TITS 2024*)  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10746249) · [[Code]](https://github.com/wmj142326/MBPR)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We build a pedestrian-vehicle collision video dataset, annotated by camera viewpoints for case analysis and posture research.
 - We propose a real-time vision-based pipeline to reconstruct pre-impact multi-body postures from real accident images.
 </div>
@@ -101,7 +101,7 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 # 🎖 Honors and Awards
 - *2022*, **National Graduate Scholarship (Master’s)**
 - *2022*, Contribution Award, **Perception Track, China Intelligent and Connected Vehicles Algorithm Competition (CIAC)**
-- - *2021*, Awarded the Gold Prize, **the 5th “Three Minute Thesis” Academic Speech Competition**, USTB
+- *2021*, Awarded the Gold Prize, **the 5th “Three Minute Thesis” Academic Speech Competition**, USTB
 - *2020*, First Prize, **International Contest of innovAtioN (iCAN)**, *Calmspoon Stabilizing Tableware*
 - *2020*, Gold Award, **“Challenge Cup” Capital College Student Entrepreneurship Competition**, *Calmspoon Stabilizing Tableware* (“挑战杯”省赛金奖)
 

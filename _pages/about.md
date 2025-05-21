@@ -136,7 +136,7 @@ I am fortunate to collaborate closely with the following research partners:
 
   <!-- Right column: ClustrMaps globe -->
   <div class="right-column" style="width: 200px; text-align: center;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=G9buaHAOshkl4VxMI_Ns2MdKNcMwxY1ZHk2sxPobsJw"></script>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=nIIaYn4aNjIzUMyEjwNjD-sOoKr_XiXOAc5dhJBOicA"></script>
   </div>
 
 </div>

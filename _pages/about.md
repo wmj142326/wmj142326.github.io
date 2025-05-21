@@ -48,15 +48,15 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 |[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c428bb07062012236519b589db63f34-Paper-Conference.pdf) · [Code](https://github.com/wmj142326/PVCP) · [Annotation_Tools](https://github.com/wmj142326/SMPL_Tools) · [Video](https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0) · [More](https://neurips.cc/virtual/2024/poster/93814)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- We constructed a pedestrian pre-collision pose dataset, PVCP, by collecting dashcam videos of pedestrian-vehicle collisions.
-- We propose a two-stage pedestrian pre-collision pose and shape estimation network, PPSENet, which first estimates the 2D pose from the image and then lifts the 2D pose to the 3D pose.
+- We build the PVCP dataset from dashcam videos of pedestrian-vehicle collisions.
+- We propose PPSENet, a two-stage network for pre-collision pose and shape estimation.
 
 </div>
 </div>
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/MBPR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/MBPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG=)
@@ -64,12 +64,10 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 **MeiJun Wang**, Yu Meng*, Yan Xu, Quan Li, Bingbing Nie
 
 <!-- [Paper](https://ieeexplore.ieee.org/abstract/document/10746249) · [Code](https://github.com/wmj142326/MBPR)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We propose a novel visual-based multi-body posture reconstruction pipeline, which can generate pre-impact postures of multi-body in real-time from real-world accident images.
-- We construct an accident video dataset of pedestrianvehicle collisions, annotated and categorized according to different shooting perspectives, for accident case analysis and pedestrian pre-collision posture research.
-- We use MADYMO software to reconstruct pedestrianvehicle collisions in pre-impact postures, and the injury results obtained through computer collision simulation are almost identical to those of manually constructed postures.
+- We build a pedestrian-vehicle collision video dataset, annotated by camera viewpoints for case analysis and posture research.
+- We propose a real-time vision-based pipeline to reconstruct pre-impact multi-body postures from real accident images.
 </div>
 </div>
-
 
 <!-- ######################################## -->
 

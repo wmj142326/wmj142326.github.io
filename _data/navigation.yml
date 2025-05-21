@@ -2,24 +2,24 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
+  
+  - title: "Educations"
+    url: "/#-educations"
+    
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Work Experience"
+    url: "/#-Work Experience"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Patents"
     url: "/#-patents"
 
-  - title: "Software Copyrights"
-    url: "/#-software-copyrights"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Academic Service"
+    url: "/#-Academic Service"
 
   - title: "Links"
     url: "/#-links"

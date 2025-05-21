@@ -27,7 +27,7 @@ Welcome to my Homepage!
 My research interests focus on **Human Pose Estimation and Generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. I am currently a Ph.D. student (Class of 2023) at the University of Science and Technology Beijing (USTB), under the supervision of [Professor Yu Meng]([https://faculty.ustb.edu.cn/mengyu/](https://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/543.html)).
 
 Sharing, contributing, open-sourcing, and helping others are some of my greatest joys!  
-Feel free to share your thoughts — you can submit a comment [here 💬](https://github.com/wmj142326/wmj142326.github.io/issues/new?title=Comment&body=Your%20comment%20here).
+Feel free to share your thoughts — you can submit a comment [here 💬](wmj142326@163.com).
 
 
 A guiding principle I live by is: **Do good work, and don’t worry too much about the outcome. (但行好事，莫问前程。)** I believe that focusing on meaningful efforts will naturally lead to meaningful results.

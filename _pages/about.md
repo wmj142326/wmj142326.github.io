@@ -128,8 +128,8 @@ I am fortunate to collaborate closely with the following research partners:
   
 In addition, I occasionally share text and video content on social media platforms.
 
-* Welcome to my read sharing: [陌尘小小-Zhihu](https://www.zhihu.com/people/mochenxiaoxiao)
-* Welcome to my video sharing: [陌尘小小-BiliBili](https://space.bilibili.com/384233049)
+* Welcome to my read sharing: [陌尘小小-Zhihu](https://www.zhihu.com/people/mochenxiaoxiao).
+* Welcome to my video sharing: [陌尘小小-BiliBili](https://space.bilibili.com/384233049).
 
 <div class="statistics-container" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
   

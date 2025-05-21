@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "Work Experience"
-    url: "/#-Work Experience"
+    url: "/#-work-experience"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -19,7 +19,7 @@ main:
     url: "/#-patents"
 
   - title: "Academic Service"
-    url: "/#-Academic Service"
+    url: "/#-academic-service"
 
   - title: "Links"
     url: "/#-links"

@@ -54,14 +54,14 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/MBPR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Taylor-Sensus Network: Embracing Noise to Enlighten Uncertainty for Scientific Data](https://arxiv.org/abs/2409.07942)
+[Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG=)
 
-**Guangxuan Song**, Dongmei Fu, Zhongwei Qiu, Jintao Meng, and Dawei Zhang
+**MeiJun Wang**, Yu Meng*, Yan Xu, Quan Li, Bingbing Nie
 
-<!-- [**Code and Dataset**](https://github.com/MatrixBrain/NR-KG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- [Paper](https://ieeexplore.ieee.org/abstract/document/10746249) · [Code](https://github.com/wmj142326/MBPR)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We proposed TSNet, a novel Taylor series-based network that explicitly models heteroscedastic noise and estimates both aleatoric and epistemic uncertainty in scientific data.
 - TSNet demonstrates superior robustness and predictive performance across various benchmarks, offering a principled approach to uncertainty modeling in AI for Science.
 </div>

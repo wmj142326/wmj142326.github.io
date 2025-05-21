@@ -109,11 +109,7 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 - *2019*, **A Human-Weight-Driven Trash Bin for Compression and Solid-Liquid Separation** (一种以人体重力驱动的压缩及固液分离垃圾箱), Granted, CN201910679971.6
 
 # 💬 Academic Service
-## Conference Reviewer
-- **NeurIPS**: 2025
-
-## Journal Reviewer
-- TCSVT, TITS, EAAI
+- **Journal and Conference Reviewer**: NeurIPS2025, TCSVT, TITS, EAAI
   
 # 🔗 Links
 

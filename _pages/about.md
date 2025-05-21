@@ -48,8 +48,8 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 |[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c428bb07062012236519b589db63f34-Paper-Conference.pdf) · [Code](https://github.com/wmj142326/PVCP) · [Annotation_Tools](https://github.com/wmj142326/SMPL_Tools) · [Video](https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0) · [More](https://neurips.cc/virtual/2024/poster/93814)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- We build the PVCP dataset from dashcam videos of pedestrian-vehicle collisions.
-- We propose PPSENet, a two-stage network for pre-collision pose and shape estimation.
+- We constructed a pedestrian pre-collision pose dataset, PVCP, by collecting dashcam videos of pedestrian-vehicle collisions.
+- We propose a two-stage pedestrian pre-collision pose and shape estimation network, PPSENet.
 
 </div>
 </div>
@@ -73,20 +73,17 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 ## Co-authored Publications
 
-- [From Knowledge Graph Development to Serving Industrial Knowledge Automation: A Review](https://ieeexplore.ieee.org/abstract/document/9901564/)
+- [Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=)
   
-  **Guangxuan Song**, Dongmei Fu, and Dawei Zhang
-  
-  **2022 41st Chinese Control Conference (CCC)**
+  Chao Zheng, Li Liu, Yu Meng, Xiaorui Peng, **Meijun Wang**
+  (*TCSVT 2024*) IEEE Transactions on Circuits and Systems for Video Technology
 
 ---
 
-- Corrosion Resistant Performance Prediction in High-Entropy Alloys: A Framework for Model, Interpretation and Multi-Dimensional Visualization
+- [Passable area segmentation for open-pit mine road from vehicle perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Meijun+Wang+Passable+area+segmentation+for+open-pit+mine+road+from+vehicle+perspective&btnG=)
   
-  **Guangxuan Song**, Dongmei Fu, Weiwei Chang, Zhongheng Fu, Lingwei Ma, and Dawei Zhang
-  
-  **Corrosion Science (under review)**
-
+  Chao Zheng, Li Liu, Yu Meng, **Meijun Wang**, Xianyao Jiang 
+  (*EAAI 2024*) Engineering Applications of Artificial Intelligence
 ---
 
 - Corrosion Resistance Prediction of High-entropy Alloys: Framework and Knowledge Graph-Drive

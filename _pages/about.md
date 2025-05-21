@@ -46,9 +46,8 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 **MeiJun Wang**, Yu Meng*, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao
 
-[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c428bb07062012236519b589db63f34-Paper-Conference.pdf) · [Code](https://github.com/wmj142326/PVCP) · [Annotation_Tools](https://github.com/wmj142326/SMPL_Tools) · [Video](https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+(*NeurIPS 2024*) | |[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c428bb07062012236519b589db63f34-Paper-Conference.pdf) | [Code](https://github.com/wmj142326/PVCP) | [Annotation_Tools](https://github.com/wmj142326/SMPL_Tools) | [Video](https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0) | [More](https://neurips.cc/virtual/2024/poster/93814)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-[Paper](https://github.com/MatrixBrain/NR-KG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed NR-KG, a cross-modal knowledge graph framework that jointly models semantic and numerical information for material property prediction.
 - By addressing the challenges of small-sample scientific data, NR-KG achieves significant improvements over state-of-the-art methods and contributes new benchmark datasets to the field.
 </div>

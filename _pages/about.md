@@ -23,9 +23,10 @@ redirect_from:
 
 
 Welcome to my Homepage! 
-My research interests focus on **Human Pose Estimation and Generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. I am currently a Ph.D. student (Class of 2023) at the University of Science and Technology Beijing (USTB), under the supervision of [Professor Yu Meng]([https://faculty.ustb.edu.cn/mengyu/](https://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/543.html)).
-Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to share your thoughts！
 
+My research interests focus on **Human Pose Estimation and Generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. I am currently a Ph.D. student (Class of 2023) at the University of Science and Technology Beijing (USTB), under the supervision of [Professor Yu Meng]([https://faculty.ustb.edu.cn/mengyu/](https://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/543.html)).
+
+Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions.
 
 <!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -41,7 +42,7 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/NRKG-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction](https://arxiv.org/abs/2312.09744)
+[Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective]([https://arxiv.org/abs/2312.09744](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian-Centric+3D+Pre-collision+Pose+and+Shape+Estimation+from+Dashcam+Perspective&btnG=))
 
 **Guangxuan Song**, Dongmei Fu, Zhongwei Qiu, Zijiang Yang, Jiaxin Dai, Lingwei Ma, and Dawei Zhang
 

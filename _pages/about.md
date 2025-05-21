@@ -71,18 +71,7 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AECE 2025</div><img src='images/AECE-500x300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Message Passing Neural Network Framework with Learnable PageRank for Author Impact Assessment](https://aece.ro/abstractplus.php?year=2025&number=1&article=2)
-
-**Guangxuan Song**, Dongmei Fu, and Xiaomeng Wu
-
-<!-- [**Code and Dataset**](https://github.com/MatrixBrain/NR-KG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We developed NPRNet, a neural-enhanced PageRank framework that integrates graph topology with spatial and attribute information to assess author influence more effectively.
-- Our method improves computational efficiency and better reflects current research dynamics, offering a data-driven tool for scholarly evaluation.
-</div>
-</div>
+## Co-authored Publications
 
 - [From Knowledge Graph Development to Serving Industrial Knowledge Automation: A Review](https://ieeexplore.ieee.org/abstract/document/9901564/)
   

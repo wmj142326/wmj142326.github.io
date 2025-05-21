@@ -70,8 +70,6 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 <!-- ######################################## -->
 
-## Co-authored Publications
-
 - [Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=)
   
   Chao Zheng, Li Liu, Yu Meng, Xiaorui Peng, **Meijun Wang**
@@ -94,55 +92,35 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
   (*EAAI 2025*) Engineering Applications of Artificial Intelligence
 
+# 👨‍💼 Work Experience
+- *2023.04 - 2023.09*, **Algorithm Intern @ Lenovo Research Institute**
+
 # 🎖 Honors and Awards
+- *2022*, **National Graduate Scholarship (Master’s)**
+- *2021*, Awarded the Gold Prize, **the 5th “Three Minute Thesis” Academic Speech Competition**, USTB
+- *2022*, Contribution Award, **Perception Track, China Intelligent and Connected Vehicles Algorithm Competition (CIAC)** (中国智能网联汽车算法挑战赛)
 - *2020*, First Prize, **International Contest of innovAtioN (iCAN)**, *Calmspoon Stabilizing Tableware*
 - *2020*, Gold Award, **“Challenge Cup” Capital College Student Entrepreneurship Competition**, *Calmspoon Stabilizing Tableware* (“挑战杯”省赛金奖)
-- *2020*, National Second Prize, **4th “Changfeng Cup” National College Student Big Data Competition**, *Customer profiling for logistics data using knowledge graphs*
-- *2021*, Second Prize, **“Maker Beijing” Regional Innovation and Entrepreneurship Competition** – Urban Big Data Track, *Calmspoon Stabilizing Tableware*
-- *2024*, Third Prize, **China International College Students Innovation Competition** – Beijing Regional, “YiWenZhi” AI-powered medical assistant for clinical documentation*
-- *2024*, Top 100 Teams, **“Jingcai Dachuang” Beijing College Student Innovation and Entrepreneurship Competition** – Healthcare Track, *“YiWenZhi” Intelligent Medical Assistant*
-
----
-
-- *2021*, **Outstanding Graduate Student Leader**, USTB
-- *2022*, **National Scholarship for Doctoral Students**
-- *2022*, **“Top 100 Youth in the Communist Youth League”**, Science Star Award, USTB
-- *2025*, **May Fourth Youth Medal**, USTB (highest honor of the Communist Youth League at USTB)
 
 # 🧾 Patents
 
-- *2020*, **Electronic Anti-Shake Tableware** (一种电子防抖餐具), Granted, CN110584428B
-- *2021*, **Entity Label Clustering Method for Materials Knowledge Graph** (一种材料领域知识图谱的实体标签聚类方法及装置), Under Substantive Examination, CN202111258392.8
-- *2022*, **Construction Method for Metallurgical Materials Knowledge Graph** (一种钢铁材料学知识图谱构建方法及系统), Under Substantive Examination, CN202210921904.2
-- *2022*, **Method and System for Operating a Materials Data Processing Platform** (一种材料数据处理平台的搭建、运行方法及系统), Under Substantive Examination, CN202211072133.0
-- *2022*, **Inference Method for Potential Knowledge in Steel Knowledge Graph** (一种基于钢材知识图谱的钢材潜在知识推理方法及系统), Under Substantive Examination, CN202210611454.7
+- *2022*, **A Vision-Based Method for Multi-Rigid-Body Pedestrian Pose Reconstruction** (一种基于视觉的多刚体行人模型姿态重建方法), Granted, 202111459545.5
+- *2020*, **Electronic Anti-Shake Tableware** (一种电子防抖餐具), Granted, CN201910912611.6
+- *2019*, **A Human-Weight-Driven Trash Bin for Compression and Solid-Liquid Separation** (一种以人体重力驱动的压缩及固液分离垃圾箱), Granted, CN201910679971.6
 
-# 💻 Software Copyrights
-
-- *2022*, **Book Knowledge Extraction Annotation Software** V1.0 (书籍知识抽取标注软件), 2022SR1352750
-- *2024*, **Parkinson’s Disease Diagnosis and Medical QA System Based on Knowledge Graph** V1.0 (基于知识图谱的帕金森病诊断与医疗问答系统), 2024SR062116
-- *2024*, **Parkinson’s Disease Medical QA Android App** V1.0 (基于知识图谱的帕金森病诊断与医疗问答APP软件), 2024SR0419077
-- *2024*, **Materials Corrosion Database Query Software** V1.0 (材料腐蚀数据库数据检索查询软件), 2024SR0704988
-- *2024*, **Web-Based Sharing Platform for Corrosion Data Dashboard** V1.0 (材料腐蚀数据库和信息资源网络化共享平台数据大屏网站), 2024SR0750810
-- *2024*, **Client Software for Materials Corrosion Data Platform** V1.0 (材料腐蚀数据库和信息资源网络化共享平台网站客户端软件), 2024SR0703838
-- *2024*, **Integrated Algorithms for Intelligent Corrosion Data Processing** V1.0 (材料腐蚀数据智能处理算法集成软件), 2024SR0703369
-- *2024*, **Medical Risk Assessment System Based on KG and LLMs** V1.0 (基于知识图谱和大语言模型的病历风险评估系统), 2024SR0600394
-- *2024*, **Medical Decision Explanation System Based on KG and LLMs** V1.0 (基于知识图谱和大语言模型的医疗决策解释系统), 2024SR0632941
-
-# 💬 Invited Talks
-
-- *Oct. 2020*, **Entrepreneurial Journey: Bringing Warmth to Innovation**, *iCAN Science Innovation Festival*, Qingdao, China \| [\[video\]](https://www.bilibili.com/video/BV1L54y1r7bc/)
-- *Jul. 2022*, **From Knowledge Graphs to Industrial Knowledge Automation: A Survey**, *Chinese Control Conference*, Hefei, China (online presentation)
-- *Sep. 2024*, **Knowledge Graphs and Deep Learning in Corrosion Science Data Research**, *9th Scientific Data Conference*, Chengdu, China
-- *Oct. 2024*, **Knowledge and Data-driven Framework for Multi-principal Element Alloys: Automated Knowledge Acquisition, Representation, and Rediscovery**, *22nd International Corrosion Congress*, Xi’an, China
-
+# 💬 Academic Service
+## Conference Reviewer
+- **NeurIPS**: 2025
+## Conference Reviewer
+- TCSVT, TITS, EAAI
+  
 # 🔗 Links
 
 I am fortunate to collaborate closely with the following research partners:
 
 - [Zhongwei Qiu](https://ericzw.github.io/). My senior colleague and research mentor, working on human-centric visual perception, multimodal learning, and generative models with applications in healthcare and science.
 
-- [Meijun Wang](https://wmj142326.github.io/). My partner working on autonomous driving and computer vision, with a focus on human pose estimation and pedestrian safety.
+- [Guangxuan Song](https://sguangxuan.github.io/). My partner working on knowledge graphs and large language models, particularly in their application to scientific data analysis in materials science.
 
 - Xin Qin. My partner in data-driven research on industrial fault diagnosis and process modeling.
 

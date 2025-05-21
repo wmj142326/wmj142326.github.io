@@ -76,53 +76,26 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 - [Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=)
   
   Chao Zheng, Li Liu, Yu Meng, Xiaorui Peng, **Meijun Wang**
+  
   (*TCSVT 2024*) IEEE Transactions on Circuits and Systems for Video Technology
 
 ---
 
 - [Passable area segmentation for open-pit mine road from vehicle perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Meijun+Wang+Passable+area+segmentation+for+open-pit+mine+road+from+vehicle+perspective&btnG=)
   
-  Chao Zheng, Li Liu, Yu Meng, **Meijun Wang**, Xianyao Jiang 
+  Chao Zheng, Li Liu, Yu Meng, **Meijun Wang**, Xianyao Jiang
+  
   (*EAAI 2024*) Engineering Applications of Artificial Intelligence
+  
 ---
 
-- Corrosion Resistance Prediction of High-entropy Alloys: Framework and Knowledge Graph-Drive
+- Integrating Convolutional Guidance and Transformer Fusion with Markov Random Fields Smoothing for Monocular Depth Estimation
   
-  **Guangxuan Song**, Dongmei Fu, Yongjie Lin, Lingwei Ma, and Dawei Zhang
-  
-  **npj Materials Degradation (under review)**
+  Xiaorui Peng, Yu Meng; Boqiang Shi, Chao Zheng, **Meijun, Wang**
+
+  (*EAAI 2025*) Engineering Applications of Artificial Intelligence
 
 ---
-
-- [Cross-category prediction of corrosion inhibitor performance based on molecular graph structures via a three-level message passing neural network model](https://www.sciencedirect.com/science/article/abs/pii/S0010938X22006989)
-  
-  Jiaxin Dai, Dongmei Fu, **Guangxuan Song**, Lingwei Ma, Xin Guo, Arjan Mol, Ivan Cole, and Dawei Zhang
-  
-  **Corrosion Science 2023**
-
----
-
-- [A Data-Driven Hybrid Machine Learning and Transfer Learning Algorithm for Long Consecutive Atmospheric Environment Missing Data Imputation](https://ieeexplore.ieee.org/abstract/document/10662572)
-  
-  Hao Meng, Lizhen Shao, Dongmei Fu, **Guangxuan Song**, and Jintao Meng
-  
-  **2024 43st Chinese Control Conference (CCC)**
-
----
-
-- [Extraction of Key Environmental Factors and Construction of the Data-Driven Model for Atmospheric Aging of Polyurethane Coatings](https://ieeexplore.ieee.org/abstract/document/10239958/)
-  
-  Zhijian Bai, Dongmei Fu, **Guangxuan Song**, Lizheng Shao, and Dawei Zhang
-  
-  **2023 42st Chinese Control Conference (CCC)**
-
----
-
-- [A Named Entity Extraction Method for Commonly Used Steel Knowledge Graph](https://link.springer.com/chapter/10.1007/978-981-16-6320-8_74)
-  
-  Zeqi Ma, Lingwei Ma, Dongmei Fu, Guangxuan Song, and Dawei Zhang
-  
-  **2021 Chinese Intelligent Systems Conference**
 
 # 🎖 Honors and Awards
 - *2020*, First Prize, **International Contest of innovAtioN (iCAN)**, *Calmspoon Stabilizing Tableware*

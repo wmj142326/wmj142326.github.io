@@ -89,13 +89,11 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
   
 ---
 
-- Integrating Convolutional Guidance and Transformer Fusion with Markov Random Fields Smoothing for Monocular Depth Estimation
+- [Integrating Convolutional Guidance and Transformer Fusion with Markov Random Fields Smoothing for Monocular Depth Estimation](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Integrating+Convolutional+Guidance+and+Transformer+Fusion+with+Markov+Random+Fields+Smoothing+for+Monocular+Depth+Estimation&btnG=)
   
   Xiaorui Peng, Yu Meng; Boqiang Shi, Chao Zheng, **Meijun, Wang**
 
   (*EAAI 2025*) Engineering Applications of Artificial Intelligence
-
----
 
 # 🎖 Honors and Awards
 - *2020*, First Prize, **International Contest of innovAtioN (iCAN)**, *Calmspoon Stabilizing Tableware*

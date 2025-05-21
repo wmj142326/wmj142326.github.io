@@ -36,8 +36,8 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 # 📝 Publications 
 
-* You can find my articles on [[Google Scholar]](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=en-US).
-* You can find my projects on [[Github]](https://github.com/wmj142326).
+* You can find my all articles on [[Google Scholar]](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=en-US).
+* You can find my all projects on [[Github]](https://github.com/wmj142326).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PVCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

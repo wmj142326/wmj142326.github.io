@@ -22,9 +22,12 @@ redirect_from:
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-Thank you for visiting my website! I'm always happy to connect—feel free to reach out.
+Welcome to my homepage! Feel free to reach out if you have any questions. 
 
-My research interests lie at the intersection of knowledge graphs and large language models, particularly in their application to scientific data analysis in materials science. I also have a growing interest in exploring how these technologies can support medical research. I am currently pursuing my Ph.D. under the supervision of Prof. Dongmei Fu and the co-supervision of Prof. Dawei Zhang at the University of Science and Technology Beijing (USTB).
+My research interests focus on **human pose estimation and generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. I am currently a Ph.D. student (Class of 2023) at the University of Science and Technology Beijing (USTB), under the supervision of [Professor Yu Meng]([https://faculty.ustb.edu.cn/mengyu/](https://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/543.html)).
+
+Sharing, contributing, open-sourcing, and helping others are some of my greatest joys!. Feel free to leave your thoughts! You can submit your comment [Here 💬](https://github.com/wmj142326/wmj142326.github.io/issues/new?title=Comment&body=Your%20comment%20here).
+
 
 A guiding principle I live by is: **Do good work, and don’t worry too much about the outcome. (但行好事，莫问前程。)** I believe that focusing on meaningful efforts will naturally lead to meaningful results.
 

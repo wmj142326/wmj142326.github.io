@@ -49,7 +49,7 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c428bb07062012236519b589db63f34-Paper-Conference.pdf) · [[Code]](https://github.com/wmj142326/PVCP) · [[Annotation_Tools]](https://github.com/wmj142326/SMPL_Tools) · [[Video]](https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0) · [[More]](https://neurips.cc/virtual/2024/poster/93814)
 [![GitHub Stars](https://img.shields.io/github/stars/wmj142326/PVCP?style=social)](https://github.com/wmj142326/PVCP)
 
-- We constructed a pedestrian pre-collision pose dataset, PVCP, by collecting dashcam videos of pedestrian-vehicle collisions.
+- We constructed a pedestrian pre-collision pose dataset, PVCP, by collecting dashcam videos of pedestrian-vehicle collisions. (With a SMPL-annotation-tools)[![GitHub Stars](https://img.shields.io/github/stars/wmj142326/SMPL_Tools?style=social)](https://github.com/wmj142326/SMPL_Tools)
 - We propose a two-stage pedestrian pre-collision pose and shape estimation network, PPSENet.
 
 </div>

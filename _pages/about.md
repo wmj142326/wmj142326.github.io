@@ -70,8 +70,7 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 <!-- ######################################## -->
 
-- <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">TCSVT 2024</span>  
-[Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=)
+- <div class="badge">TCSVT 2024</div>[Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=)
   
   Chao Zheng, Li Liu, Yu Meng, Xiaorui Peng, **Meijun Wang**
   

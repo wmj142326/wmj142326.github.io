@@ -70,27 +70,27 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 <!-- ######################################## -->
 
-- <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">TCSVT 2024</span> [Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=)
+- [Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=)
   
   Chao Zheng, Li Liu, Yu Meng, Xiaorui Peng, **Meijun Wang**
   
-  (*TCSVT 2024*) IEEE Transactions on Circuits and Systems for Video Technology
+  <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">TCSVT 2024</span> IEEE Transactions on Circuits and Systems for Video Technology
 
 ---
 
-- <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">EAAI 2024</span>[Passable area segmentation for open-pit mine road from vehicle perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Meijun+Wang+Passable+area+segmentation+for+open-pit+mine+road+from+vehicle+perspective&btnG=)
+- [Passable area segmentation for open-pit mine road from vehicle perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Meijun+Wang+Passable+area+segmentation+for+open-pit+mine+road+from+vehicle+perspective&btnG=)
   
   Chao Zheng, Li Liu, Yu Meng, **Meijun Wang**, Xianyao Jiang
   
-  (*EAAI 2024*) Engineering Applications of Artificial Intelligence
+  <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">EAAI 2024</span> Engineering Applications of Artificial Intelligence
   
 ---
 
-- <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">EAAI 2025</span>[Integrating Convolutional Guidance and Transformer Fusion with Markov Random Fields Smoothing for Monocular Depth Estimation](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Integrating+Convolutional+Guidance+and+Transformer+Fusion+with+Markov+Random+Fields+Smoothing+for+Monocular+Depth+Estimation&btnG=)
+- [Integrating Convolutional Guidance and Transformer Fusion with Markov Random Fields Smoothing for Monocular Depth Estimation](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Integrating+Convolutional+Guidance+and+Transformer+Fusion+with+Markov+Random+Fields+Smoothing+for+Monocular+Depth+Estimation&btnG=)
   
   Xiaorui Peng, Yu Meng; Boqiang Shi, Chao Zheng, **Meijun, Wang**
 
-  (*EAAI 2025*) Engineering Applications of Artificial Intelligence
+  <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">EAAI 2025</span> Engineering Applications of Artificial Intelligence
 
 # 👨‍💼 Work Experience
 - *2023.04 - 2023.09*, **Algorithm Intern @ Lenovo Research Institute**

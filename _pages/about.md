@@ -96,7 +96,7 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
   <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">EAAI 2025</span> Engineering Applications of Artificial Intelligence
 
 # 👨‍💼 Work Experience
-- *2023.04 - 2023.09*, **Algorithm Intern @ Lenovo Research Institute**
+- *2023.04 - 2023.09*, **Algorithm Intern @ [Lenovo Research](https://research.lenovo.com/webapp/view/index.html)**
 
 # 🎖 Honors and Awards
 - *2022*, **National Graduate Scholarship (Master’s)**

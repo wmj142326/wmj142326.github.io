@@ -46,10 +46,9 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 **MeiJun Wang**, Yu Meng*, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao
 
-(*NeurIPS 2024*)  [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c428bb07062012236519b589db63f34-Paper-Conference.pdf) · [[Code]](https://github.com/wmj142326/PVCP) · [[Annotation_Tools]](https://github.com/wmj142326/SMPL_Tools) · [[Video]](https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0) · [[More]](https://neurips.cc/virtual/2024/poster/93814)
+[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c428bb07062012236519b589db63f34-Paper-Conference.pdf) · [[Code]](https://github.com/wmj142326/PVCP) · [[Annotation_Tools]](https://github.com/wmj142326/SMPL_Tools) · [[Video]](https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0) · [[More]](https://neurips.cc/virtual/2024/poster/93814)
 [![GitHub Stars](https://img.shields.io/github/stars/wmj142326/PVCP?style=social)](https://github.com/wmj142326/PVCP)
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We constructed a pedestrian pre-collision pose dataset, PVCP, by collecting dashcam videos of pedestrian-vehicle collisions.
 - We propose a two-stage pedestrian pre-collision pose and shape estimation network, PPSENet.
 
@@ -65,7 +64,9 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 **MeiJun Wang**, Yu Meng*, Yan Xu, Quan Li, Bingbing Nie
 
-(*TITS 2024*)  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10746249) · [[Code]](https://github.com/wmj142326/MBPR)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10746249) · [[Code]](https://github.com/wmj142326/MBPR)
+[![GitHub Stars](https://img.shields.io/github/stars/wmj142326/MBPR?style=social)](https://github.com/wmj142326/MBPR)
+
 - We build a pedestrian-vehicle collision video dataset, annotated by camera viewpoints for case analysis and posture research.
 - We propose a real-time vision-based pipeline to reconstruct pre-impact multi-body postures from real accident images.
 </div>

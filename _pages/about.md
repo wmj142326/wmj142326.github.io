@@ -100,7 +100,7 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 # 🎖 Honors and Awards
 - *2022*, **National Graduate Scholarship (Master’s)**
-- *2022*, Contribution Award, **China Intelligent and Connected Vehicles Algorithm Competition (CIAC)**, Perception Track,
+- *2022*, Contribution Award, **China Intelligent and Connected Vehicles Algorithm Competition (CIAC)**, *Perception Track*
 - *2021*, Awarded the Gold Prize, **the 5th “Three Minute Thesis” Academic Speech Competition**, USTB
 - *2020*, First Prize, **International Contest of innovAtioN (iCAN)**, *Calmspoon Stabilizing Tableware*
 - *2020*, Gold Award, **“Challenge Cup” Capital College Student Entrepreneurship Competition**, *Calmspoon Stabilizing Tableware* (“挑战杯”省赛金奖)

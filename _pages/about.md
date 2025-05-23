@@ -122,8 +122,8 @@ I am fortunate to collaborate closely with the following research partners:
 
 - [Guangxuan Song](https://sguangxuan.github.io/). My partner working on knowledge graphs and large language models, particularly in their application to scientific data analysis in materials science.
 
-- Xin Qin. My partner in data-driven research on industrial fault diagnosis and process modeling.
-  
+- [Xin Qin](https://qinxin97.github.io/). My partner working on industrial process fault diagnosis and optimization.
+
 In addition, I occasionally share text and video content on social media platforms.
 
 * Welcome to my read sharing: [陌尘小小-Zhihu](https://www.zhihu.com/people/mochenxiaoxiao).

@@ -42,7 +42,7 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PVCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian-Centric+3D+Pre-collision+Pose+and+Shape+Estimation+from+Dashcam+Perspective&btnG=)
+[Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian-Centric+3D+Pre-collision+Pose+and+Shape+Estimation+from+Dashcam+Perspective&btnG=)<strong><span class='show_paper_citations' data='Ganf8zgAAAAJ:ALROH1vI_8AC'></span></strong>
 
 **MeiJun Wang**, Yu Meng*, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao
 

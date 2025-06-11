@@ -21,7 +21,7 @@ redirect_from:
 
 Welcome to my Homepage! My name is **Wang Meijun (王美军)**.
 
-I am currently a Ph.D. student at the University of Science and Technology Beijing (USTB), under the supervision of [Professor Yu Meng](https://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/543.html). My research interests focus on **Human Pose Estimation and Generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions — [Contact me here 💬](https://github.com/wmj142326/contact/issues/new?title=Please write down your theme briefly&body=Hi%20there!%20I%20have%20a%20question...).
+I am currently a Ph.D. student at the University of Science and Technology Beijing (USTB), under the supervision of [Professor Yu Meng](https://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/543.html). My research interests focus on **Human Pose Estimation and Generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions — [Contact me here 💬](https://github.com/wmj142326/OpenSource/issues/new?title=Please write down your theme briefly&body=Hi%20there!%20I%20have%20a%20question...).
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Look forward to my continuous new research work!

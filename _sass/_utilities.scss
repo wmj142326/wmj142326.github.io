@@ -186,6 +186,13 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  .social-icon {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;

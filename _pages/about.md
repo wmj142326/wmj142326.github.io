@@ -71,6 +71,14 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 <!-- ######################################## -->
 
+
+- [Text-guided class-incremental point cloud semantic segmentation with category distribution constraint](https://www.sciencedirect.com/science/article/pii/S0952197626012662)
+  
+  Chao Zheng, Yan XU, Xiaorui Peng, **Meijun Wang**, Yu Meng
+  
+  <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">EAAI 2026</span> Engineering Applications of Artificial Intelligence
+
+---
 - [Monoafkd: Align and Frequency Cross Knowledge Distillation for Monocular 3d Object Detection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5208518)
   
   Xiaorui Peng, Yu Meng, Chao Zheng, **Meijun Wang**

@@ -152,11 +152,7 @@ In addition, I occasionally share text and video content on social media platfor
 
   <!-- Right column: visitor globe -->
   <div class="right-column" style="width: 200px; text-align: center;">
-    <script
-      type="text/javascript"
-      id="mmvst_globe"
-      src="https://mapmyvisitors.com/globe.js?d=IEKqg4FDrgYS_iuR1MBceiMf5drZmBxqrX0wyLHOO8Q">
-    </script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Npfm06MpePZtsjuGlYZjHtgBJI5h6Zrd7me1xfDkvws&cl=ffffff&w=a"></script>
   </div>
 
 </div>

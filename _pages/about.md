@@ -152,10 +152,12 @@ In addition, I occasionally share text and video content on social media platfor
 
   <!-- Right column: ClustrMaps globe -->
   <div class="right-column" style="width: 200px; text-align: center;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=nIIaYn4aNjIzUMyEjwNjD-sOoKr_XiXOAc5dhJBOicA"></script>
+    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=IEKqg4FDrgYS_iuR1MBceiMf5drZmBxqrX0wyLHOO8Q"></script>
   </div>
 
 </div>
+
+
 
 
 

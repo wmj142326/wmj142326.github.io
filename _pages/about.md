@@ -150,9 +150,13 @@ In addition, I occasionally share text and video content on social media platfor
     <img src="../images/QR code.png" alt="QR code" width="200" style="height: auto;">
   </div>
 
-  <!-- Right column: ClustrMaps globe -->
+  <!-- Right column: visitor globe -->
   <div class="right-column" style="width: 200px; text-align: center;">
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=IEKqg4FDrgYS_iuR1MBceiMf5drZmBxqrX0wyLHOO8Q"></script>
+    <script
+      type="text/javascript"
+      id="mmvst_globe"
+      src="https://mapmyvisitors.com/globe.js?d=IEKqg4FDrgYS_iuR1MBceiMf5drZmBxqrX0wyLHOO8Q">
+    </script>
   </div>
 
 </div>

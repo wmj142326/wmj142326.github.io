@@ -19,17 +19,18 @@ redirect_from:
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
-Welcome to my Homepage! My name is **Wang Meijun (王美军)**.
+Welcome to my Homepage! I'm **Wang Meijun (王美军)**.👋
 
-I am currently a Ph.D. student at the University of Science and Technology Beijing (USTB), under the supervision of [Professor Yu Meng](https://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/543.html). My research interests focus on **Human Pose Estimation and Generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions — [Contact me here 💬](https://github.com/wmj142326/OpenSource/issues/new?title=Please write down your theme briefly&body=Hi%20there!%20I%20have%20a%20question...).
+I am currently a Ph.D. student at the University of Science and Technology Beijing (USTB), under the supervision of Professor [Yu Meng](https://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/543.html), and also a joint Ph.D. student at Nanyang Technological University (NTU), College of Computing and Data Science (CCDS), under the supervision of Professor [Ying He](https://scholar.google.com/citations?user=ISNmBxwAAAAJ&hl=zh-CN&oi=ao), supported by the CSC program. My research interests focus on **Human Pose Estimation and Generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions — [Contact me here 💬](https://github.com/wmj142326/OpenSource/issues/new?title=Please write down your theme briefly&body=Hi%20there!%20I%20have%20a%20question...).
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Look forward to my continuous new research work!
+- *2026.04*: &nbsp;🎉🎉 Look forward to my continuous new research work!
 
 # 📖 Educations
-- *2023.09 - Now*, Ph.D in University of Science and Technology Beijing.
-- *2020.09 - 2023.06*, M.S. in University of Science and Technology Beijing.
-- *2016.09 - 2020.06*, B.S. in University of Science and Technology Beijing.
+- *2025.09 - Now*, Ph.D. (Joint Program), College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore.
+- *2023.09 - Now*, Ph.D., School of Mechanical Engineering, University of Science and Technology Beijing (USTB) , China.
+- *2020.09 - 2023.06*, M.S., School of Mechanical Engineering, University of Science and Technology Beijing (USTB) , China.
+- *2016.09 - 2020.06*, B.S., School of Mechanical Engineering, University of Science and Technology Beijing (USTB) , China.
 
 # 📝 Publications 
 
@@ -70,6 +71,14 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 <!-- ######################################## -->
 
+
+- [Text-guided class-incremental point cloud semantic segmentation with category distribution constraint](https://www.sciencedirect.com/science/article/pii/S0952197626012662)
+  
+  Chao Zheng, Yan XU, Xiaorui Peng, **Meijun Wang**, Yu Meng
+  
+  <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">EAAI 2026</span> Engineering Applications of Artificial Intelligence
+
+---
 - [Monoafkd: Align and Frequency Cross Knowledge Distillation for Monocular 3d Object Detection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5208518)
   
   Xiaorui Peng, Yu Meng, Chao Zheng, **Meijun Wang**
@@ -141,12 +150,14 @@ In addition, I occasionally share text and video content on social media platfor
     <img src="../images/QR code.png" alt="QR code" width="200" style="height: auto;">
   </div>
 
-  <!-- Right column: ClustrMaps globe -->
+  <!-- Right column: visitor globe -->
   <div class="right-column" style="width: 200px; text-align: center;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=nIIaYn4aNjIzUMyEjwNjD-sOoKr_XiXOAc5dhJBOicA"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Npfm06MpePZtsjuGlYZjHtgBJI5h6Zrd7me1xfDkvws&cl=ffffff&w=a"></script>
   </div>
 
 </div>
+
+
 
 
 

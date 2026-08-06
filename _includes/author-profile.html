@@ -98,6 +98,12 @@
         <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> Zhihu</a></li>
       {% endif %}
       {% if author.bilibili %}
+        <li>
+          <a href="{{ author.bilibili }}">
+            <img class="social-icon" src="{{ '/assets/img/bilibili.svg' | relative_url }}" alt="BiliBili">
+            BiliBili
+          </a>
+        </li>
         <li><a href="{{ author.bilibili }}"><i class="fa-brands fa-bilibili"></i> BiliBili</a></li>
       {% endif %}
       {% if author.weibo %}

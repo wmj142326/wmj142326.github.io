@@ -179,10 +179,41 @@ body:hover .visually-hidden button {
   vertical-align: middle;
 }
 
+.bilibili-tv-icon {
+  display: inline-block;
+  position: relative;
+  box-sizing: border-box;
+  width: 1.28571429em;
+  height: 0.9em;
+  border: 0.12em solid currentColor;
+  border-radius: 0.18em;
+  background:
+    radial-gradient(circle at 35% 45%, currentColor 0 0.07em, transparent 0.075em),
+    radial-gradient(circle at 65% 45%, currentColor 0 0.07em, transparent 0.075em),
+    linear-gradient(currentColor, currentColor) 50% 68% / 0.34em 0.06em no-repeat;
+  vertical-align: -0.12em;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: -0.38em;
+    left: 0.16em;
+    right: 0.16em;
+    height: 0.36em;
+    background:
+      linear-gradient(135deg, transparent 44%, currentColor 46%, currentColor 54%, transparent 56%) left / 50% 100% no-repeat,
+      linear-gradient(45deg, transparent 44%, currentColor 46%, currentColor 54%, transparent 56%) right / 50% 100% no-repeat;
+  }
+}
+
 /* social icons*/
 
 .social-icons {
   .fa {
+    color: #000;
+  }
+
+  .bilibili-tv-icon {
     color: #000;
   }
 

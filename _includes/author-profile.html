@@ -98,7 +98,7 @@
         <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> Zhihu</a></li>
       {% endif %}
       {% if author.bilibili %}
-        <li><a href="{{ author.bilibili }}"><i class="fa-brands fa-bilibili"></i> BiliBili</a></li>
+        <li><a href="{{ author.bilibili }}"><i class="fas fa-fw fa-tv" aria-hidden="true"></i> BiliBili</a></li>
       {% endif %}
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
@@ -191,6 +191,12 @@
       {% endif %}
       {% if author.soundcloud %}
         <a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.zhihu %}
+        <a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.bilibili %}
+        <a href="{{ author.bilibili }}"><i class="fas fa-fw fa-tv" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.weibo %}
         <a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i></a>

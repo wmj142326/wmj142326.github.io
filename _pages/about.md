@@ -140,8 +140,13 @@ I am fortunate to collaborate closely with the following research partners:
 
 In addition, I occasionally share text and video content on social media platforms.
 
+* Welcome to my video sharing: [陌尘小小-BiliBili](https://space.bilibili.com/384233049).
+
 * Welcome to my read sharing: [陌尘小小-Zhihu](https://www.zhihu.com/people/mochenxiaoxiao).
-* Welcome to my video sharing: <iconify-icon class="bilibili-icon" icon="simple-icons:bilibili" aria-hidden="true"></iconify-icon> [陌尘小小-BiliBili](https://space.bilibili.com/384233049).
+  * Recommended Reading:
+    * [万字长文1！人体姿态估计(HPE)入门教程](https://zhuanlan.zhihu.com/p/596043913)
+    * [万字长文2！SMPL工作详述（理论与代码）](https://zhuanlan.zhihu.com/p/696878001)
+
 
 <div class="statistics-container" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
   

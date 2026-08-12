@@ -122,6 +122,7 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 # 🧾 Patents
 
+- *2026*, **A Witness-Description-Based Method for Generating Pedestrian Pre-collision Pose** (一种基于目击者描述的行人应急姿态生成方法 ), Pending, 202610492569.7
 - *2022*, **A Vision-Based Method for Multi-Rigid-Body Pedestrian Pose Reconstruction** (一种基于视觉的多刚体行人模型姿态重建方法), Granted, 202111459545.5
 - *2020*, **Electronic Anti-Shake Tableware** (一种电子防抖餐具), Granted, CN201910912611.6
 - *2019*, **A Human-Weight-Driven Trash Bin for Compression and Solid-Liquid Separation** (一种以人体重力驱动的压缩及固液分离垃圾箱), Granted, CN201910679971.6
@@ -149,7 +150,7 @@ In addition, I occasionally share text and video content on social media platfor
     * [万字长文2！SMPL工作详述（理论与代码）](https://zhuanlan.zhihu.com/p/696878001)
 
 
-<div class="statistics-container" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
+<div class="statistics-container" style="display: flex; align-items: center; justify-content: flex-start; gap: 40px;">
   
   <!-- Left column: QR code image -->
   <div class="left-column">
@@ -157,7 +158,7 @@ In addition, I occasionally share text and video content on social media platfor
   </div>
 
   <!-- Right column: visitor globe -->
-  <div class="right-column" style="width: 200px; text-align: center;">
+  <div class="right-column" style="width: 200px; text-align: left;">
     <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=cjUWXMqOgnilwDGlMVe_TjkaQ2JS-01cqs26obHlzyw&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
   </div>
 </div>

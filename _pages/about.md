@@ -111,6 +111,7 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
   
 # 👨‍💼 Work Experience
 - *2023.04 - 2023.09*, **Algorithm Intern @ [Lenovo Research](https://research.lenovo.com/webapp/view/index.html)**
+  * Hand pose estimation, dataset, multi-view
 
 # 🎖 Honors and Awards
 - *2022*, **National Graduate Scholarship (Master’s)**

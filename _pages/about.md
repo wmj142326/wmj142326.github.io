@@ -24,7 +24,7 @@ Welcome to my Homepage! I'm **Wang Meijun (王美军)**.👋
 I am currently a Ph.D. student at the University of Science and Technology Beijing (USTB), under the supervision of Professor [Yu Meng](https://me.ustb.edu.cn/szdw/xsjs/clgcx1/df573e5a5a26491d9372b9776fb34f7a.htm), and also a joint Ph.D. student at Nanyang Technological University (NTU), College of Computing and Data Science (CCDS), under the supervision of Professor [Ying He](https://scholar.google.com/citations?user=ISNmBxwAAAAJ&hl=zh-CN&oi=ao), supported by the CSC program. My research interests focus on **Human Pose Estimation and Generation** in the field of deep learning, particularly in **Vehicle Active and Passive Protection Technology for Pedestrian Safety** in autonomous driving applications. Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions — [Contact me here 💬](https://github.com/wmj142326/OpenSource/issues/new?title=Please write down your theme briefly&body=Hi%20there!%20I%20have%20a%20question...).
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Look forward to my continuous new research work!
+- *2026.06*: &nbsp;🎉🎉 Look forward to my continuous new research work!
 
 # 📖 Educations
 - *2025.09 - Now*, Ph.D. (Joint Program), College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore.
@@ -114,6 +114,8 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
   * Hand pose estimation, dataset, multi-view
 
 # 🎖 Honors and Awards
+- *2025*, **Rui'er Foundation Scholarship**
+- *2023*, **Outstanding Graduate, University of Science and Technology Beijing (USTB)**
 - *2022*, **National Graduate Scholarship (Master’s)**
 - *2022*, Contribution Award, **China Intelligent and Connected Vehicles Algorithm Competition (CIAC)**, *Perception Track*
 - *2021*, Awarded the Gold Prize, **the 5th “Three Minute Thesis” Academic Speech Competition**, USTB

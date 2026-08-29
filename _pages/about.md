@@ -21,7 +21,11 @@ redirect_from:
 
 Welcome to my Homepage! I'm **Wang Meijun (王美军)**.👋
 
-I am currently a Ph.D. student at the University of Science and Technology Beijing (USTB), under the supervision of Professor [Yu Meng](https://me.ustb.edu.cn/szdw/xsjs/clgcx1/df573e5a5a26491d9372b9776fb34f7a.htm), and also a visiting Ph.D. student at Nanyang Technological University (NTU), College of Computing and Data Science (CCDS), under the supervision of Professor [Ying He](https://scholar.google.com/citations?user=ISNmBxwAAAAJ&hl=zh-CN&oi=ao), supported by the CSC program. My research interests lie in **Human-Centric Intelligence** and **Autonomous Driving**, with a particular focus on **SMPL(-X)-based Pedestrian Pose Estimation and Prediction**, as well as **Text-to-Pose Generation**. Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions — [Contact me here 💬](https://github.com/wmj142326/OpenSource/issues/new?title=Please write down your theme briefly&body=Hi%20there!%20I%20have%20a%20question...).
+I am currently a Ph.D. student at the University of Science and Technology Beijing (USTB), under the supervision of Professor [Yu Meng](https://me.ustb.edu.cn/szdw/xsjs/clgcx1/df573e5a5a26491d9372b9776fb34f7a.htm). I'm also a visiting Ph.D. student at Nanyang Technological University (NTU), College of Computing and Data Science (CCDS), under the supervision of Professor [Ying He](https://scholar.google.com/citations?user=ISNmBxwAAAAJ&hl=zh-CN&oi=ao), supported by the CSC program. 
+
+My research interests lie in **Human-Centric Intelligence** and **Autonomous Driving**, with a particular focus on **SMPL(-X)-based Pedestrian Pose Estimation and Prediction**, as well as **Text-to-Pose Generation**. 
+
+Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions — [Contact me here 💬](https://github.com/wmj142326/OpenSource/issues/new?title=Please write down your theme briefly&body=Hi%20there!%20I%20have%20a%20question...).
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Look forward to my continuous new research work!

@@ -136,7 +136,7 @@ I am currently a Ph.D. student at the University of Science and Technology Beiji
 
 I am fortunate to collaborate closely with the following research partners:
 
-- [Zhongwei Qiu](https://ericzw.github.io/). My senior colleague and research mentor, working on human-centric visual perception, multimodal learning, and generative models with applications in healthcare and science.
+- [Zhongwei Qiu](https://ericzw.github.io/). My partner working on human-centric visual perception, multimodal learning, and generative models with applications in healthcare and science.
 
 - [Guangxuan Song](https://sguangxuan.github.io/). My partner working on knowledge graphs and large language models, particularly in their application to scientific data analysis in materials science.
 

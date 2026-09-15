@@ -149,7 +149,8 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
   
 # 👨‍💼 Work Experience
 - *2023.03 - 2023.09*, **Algorithm Intern @ [Lenovo Research](https://research.lenovo.com/webapp/view/index.html)**
-  * Hand pose estimation, dataset, multi-view
+  * Multi-view, Camera calibration
+  * MANO, Hand pose estimation, Dataset,
 
 # 🎖 Honors and Awards
 - *2025*, **Rui'er Foundation Scholarship**

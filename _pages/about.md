@@ -41,6 +41,40 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 * You can find my all publications on [[Google Scholar]](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=en-US).
 * You can find my all projects on [[Github]](https://github.com/wmj142326).
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP (AQE)</div><img src='images/PPSG.png' alt="PPSG framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Pedestrian Pre-Collision Pose Generation from Eyewitness Descriptions Without Visual Evidence**
+
+**Meijun Wang**, Yu Meng*, Chao Zheng, Xiaorui Peng, Guangxuan Song, Zhongwei Qiu, Ying He
+
+[[Paper]coming soon...]() · [[Code]](https://github.com/wmj142326/PPSG)
+
+- We construct PVCP2, a large-scale text-pose dataset with over 10K fine-grained pedestrian pre-collision text-pose pairs generated through VLM-assisted annotation and template-based refinement.
+- We propose PPSG, a probabilistic framework that generates diverse and plausible SMPL-based 3D pre-collision poses from structured eyewitness descriptions without relying on visual evidence.
+
+</div>
+</div>
+
+<!-- ######################################## -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT (Under Review)</div><img src='images/PVCPM.png' alt="PVCPM framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scene Semantics-Guided Probabilistic 3D Pedestrian Motion Prediction in Pre-Collision Scenarios**
+
+**Meijun Wang**, Yu Meng*, Ying He, Chao Zheng, Xiaorui Peng, Shaofei Shan, Huangjian Xu
+
+[[Paper]coming soon...]() · [[Code]](https://github.com/wmj142326/PVCPM)
+
+- We construct PVCPM, a benchmark containing 172 temporally refined 3D pedestrian motion sequences from 159 real dashcam pre-collision scenes, and reveal its distinctive mid- and high-frequency dynamics.
+- We propose a scene semantics-guided two-stage CVAE with VLM-derived traffic cues and a FiLM-Guided Auxiliary Sampler to generate diverse, scene-consistent pre-collision motions.
+
+</div>
+</div>
+
+<!-- ######################################## -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PVCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

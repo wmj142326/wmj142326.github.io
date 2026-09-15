@@ -48,7 +48,7 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 **Meijun Wang**, Yu Meng*, Chao Zheng, Xiaorui Peng, Guangxuan Song, Zhongwei Qiu, Ying He
 
-[[Paper]coming soon...]() · [[Code]](https://github.com/wmj142326/PPSG)
+[[Paper]]()coming soon... · [[Code]](https://github.com/wmj142326/PPSG)
 
 - We construct PVCP2, a large-scale text-pose dataset with over 10K fine-grained pedestrian pre-collision text-pose pairs generated through VLM-assisted annotation and template-based refinement.
 - We propose PPSG, a probabilistic framework that generates diverse and plausible SMPL-based 3D pre-collision poses from structured eyewitness descriptions without relying on visual evidence.
@@ -65,7 +65,7 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 **Meijun Wang**, Yu Meng*, Ying He, Chao Zheng, Xiaorui Peng, Shaofei Shan, Huangjian Xu
 
-[[Paper]coming soon...]() · [[Code]](https://github.com/wmj142326/PVCPM)
+[[Paper]]()coming soon... · [[Code]](https://github.com/wmj142326/PVCPM)
 
 - We construct PVCPM, a benchmark containing 172 temporally refined 3D pedestrian motion sequences from 159 real dashcam pre-collision scenes, and reveal its distinctive mid- and high-frequency dynamics.
 - We propose a scene semantics-guided two-stage CVAE with VLM-derived traffic cues and a FiLM-Guided Auxiliary Sampler to generate diverse, scene-consistent pre-collision motions.

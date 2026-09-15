@@ -148,7 +148,7 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
   <span style="background-color: #002855; color: white; font-size: 0.75em; padding: 2px 6px; border-radius: 4px; font-weight: bold;">EAAI 2024</span> Engineering Applications of Artificial Intelligence
   
 # 👨‍💼 Work Experience
-- *2023.04 - 2023.09*, **Algorithm Intern @ [Lenovo Research](https://research.lenovo.com/webapp/view/index.html)**
+- *2023.03 - 2023.09*, **Algorithm Intern @ [Lenovo Research](https://research.lenovo.com/webapp/view/index.html)**
   * Hand pose estimation, dataset, multi-view
 
 # 🎖 Honors and Awards

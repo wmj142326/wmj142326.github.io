@@ -28,7 +28,7 @@ My research interests lie in **Human-Centric Intelligence** and **Autonomous Dri
 Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions — [Contact me here 💬](https://github.com/wmj142326/OpenSource/issues/new?title=Please write down your theme briefly&body=Hi%20there!%20I%20have%20a%20question...).
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 Look forward to my continuous new research work!
+- *2026.09*: &nbsp;🎉🎉 📷 Welcome to view my photography portfolio: [meijun-photo](https://photography.wmj142326.workers.dev/)
 
 # 📖 Education
 - *2025.09 - Now*, Ph.D. (Joint Program), College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore.
@@ -203,8 +203,3 @@ In addition, I occasionally share text and video content on social media platfor
     <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=cjUWXMqOgnilwDGlMVe_TjkaQ2JS-01cqs26obHlzyw&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
   </div>
 </div>
-
-
-
-
-

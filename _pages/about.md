@@ -195,7 +195,7 @@ In addition, I occasionally share text and video content on social media platfor
   
   <!-- Left column: QR code image -->
   <div class="left-column">
-    <img src="../images/QR code.png" alt="QR code" width="200" style="height: auto;">
+    <img src="../images/QR code.svg" alt="QR code" width="200" style="height: auto;">
   </div>
 
   <!-- Right column: visitor globe -->

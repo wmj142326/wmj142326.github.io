@@ -27,6 +27,8 @@ My research interests lie in **Human-Centric Intelligence** and **Autonomous Dri
 
 Sharing, contributing, open-sourcing, and helping others are some of my greatest joys! Feel free to reach out to me anytime if you have any questions — [Contact me here 💬](https://github.com/wmj142326/OpenSource/issues/new?title=Please write down your theme briefly&body=Hi%20there!%20I%20have%20a%20question...).
 
+Do your best. Let life unfold.
+
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉🎉 Welcome to view my photography portfolio: [📷 Photo Gallery](https://photography.wmj142326.workers.dev/)
 
@@ -58,7 +60,7 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT (Under Review)</div><img src='images/PVCPM.png' alt="PVCPM framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">(Under Review)</div><img src='images/PVCPM.png' alt="PVCPM framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scene Semantics-Guided Probabilistic 3D Pedestrian Motion Prediction in Pre-Collision Scenarios**

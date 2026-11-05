@@ -30,7 +30,8 @@ Sharing, contributing, open-sourcing, and helping others are some of my greatest
 Do your best. Let life unfold.
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉🎉 Welcome to view my photography portfolio: [📷 Photo Gallery](https://photography.wmj142326.workers.dev/)
+- *2026.11*: &nbsp;🎉🎉🎉 Our work **PPSG** has been accepted by **IEEE Transactions on Image Processing (TIP)**!
+- *2026.11*: &nbsp;🎉🎉🎉 Welcome to view my photography portfolio: [📷 Photo Gallery](https://photography.wmj142326.workers.dev/)
 
 # 📖 Education
 - *2025.09 - Now*, Ph.D. (Joint Program), College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore.
@@ -43,7 +44,7 @@ Do your best. Let life unfold.
 * You can find my all publications on [[Google Scholar]](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=en-US).
 * You can find my all projects on [[Github]](https://github.com/wmj142326).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP (AQE)</div><img src='images/PPSG.png' alt="PPSG framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/PPSG.png' alt="PPSG framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pedestrian Pre-Collision Pose Generation from Eyewitness Descriptions Without Visual Evidence**

@@ -47,11 +47,11 @@ Do your best. Let life unfold.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/PPSG.png' alt="PPSG framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Pedestrian Pre-Collision Pose Generation from Eyewitness Descriptions Without Visual Evidence**
+[**Pedestrian Pre-Collision Pose Generation from Eyewitness Descriptions Without Visual Evidence**](https://ieeexplore.ieee.org/document/11803248)
 
 **Meijun Wang**, Yu Meng*, Chao Zheng, Xiaorui Peng, Guangxuan Song, Zhongwei Qiu, Ying He
 
-[[Paper]]()coming soon... · [[Code]](https://github.com/wmj142326/PPSG)
+[[Paper]](https://ieeexplore.ieee.org/document/11803248) · [[Code]](https://github.com/wmj142326/PPSG)
 
 - We construct PVCP2, a large-scale text-pose dataset with over 10K fine-grained pedestrian pre-collision text-pose pairs generated through VLM-assisted annotation and template-based refinement.
 - We propose PPSG, a probabilistic framework that generates diverse and plausible SMPL-based 3D pre-collision poses from structured eyewitness descriptions without relying on visual evidence.

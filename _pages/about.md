@@ -44,7 +44,7 @@ Do your best. Let life unfold.
 * You can find my all publications on [[Google Scholar]](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=en-US).
 * You can find my all projects on [[Github]](https://github.com/wmj142326).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/PPSG.png' alt="PPSG framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/PPSG.png' alt="PPSG framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Pedestrian Pre-Collision Pose Generation from Eyewitness Descriptions Without Visual Evidence**](https://ieeexplore.ieee.org/document/11803248)

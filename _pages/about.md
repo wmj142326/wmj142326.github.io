@@ -47,7 +47,7 @@ Do your best. Let life unfold.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/PPSG.png' alt="PPSG framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Pedestrian Pre-Collision Pose Generation from Eyewitness Descriptions Without Visual Evidence**](https://ieeexplore.ieee.org/document/11803248)
+[**Pedestrian Pre-Collision Pose Generation from Eyewitness Descriptions Without Visual Evidence**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian+Pre-Collision+Pose+Generation+from+Eyewitness+Descriptions+Without+Visual+Evidence&btnG=)
 
 **Meijun Wang**, Yu Meng*, Chao Zheng, Xiaorui Peng, Guangxuan Song, Zhongwei Qiu, Ying He
 
